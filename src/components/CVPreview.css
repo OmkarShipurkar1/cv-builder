@@ -1,0 +1,59 @@
+.cv-preview {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+    background: #ffffff;
+    color: #2c2c2c;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.cv-header {
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+
+.cv-name {
+    font-size: 2.2rem;
+    font-weight: bold;
+    color: #2b3a55;
+}
+
+.cv-contact {
+    font-size: 0.95rem;
+    color: #555;
+}
+
+.cv-section {
+    margin-top: 2rem;
+}
+
+.cv-section h2 {
+    font-size: 1.4rem;
+    margin-bottom: 0.5rem;
+    color: #2b3a55;
+    border-bottom: 2px solid #d8e3ff;
+    padding-bottom: 0.3rem;
+}
+
+.cv-item {
+    margin-bottom: 1rem;
+}
+
+.cv-title {
+    font-weight: bold;
+    font-size: 1.05rem;
+    color: #333;
+}
+
+.cv-subtitle {
+    font-size: 0.9rem;
+    color: #777;
+}
+
+.cv-desc {
+    margin-top: 0.3rem;
+    font-size: 0.95rem;
+    color: #444;
+}
